@@ -13,4 +13,4 @@ Interactive Power BI dashboard and data analysis project focused on retail sales
 * `samsung_ce_dashboard.pbix` — Interactive Power BI report (Power Query + DAX measures + visuals).
 * `powerbi_dashboard.png` — Preview screenshot of the final dashboard.
 * `ce_retail_raw.csv` & `ce_retail_clean.csv` — Raw and cleaned 90-day retail sales and stock datasets.
-* `retail_analysis.py` & `chart_promo_uplift.png` — Python script (`pandas`, `matplotlib`) used to generate the dataset and verify KPIs.
+* `retail.py` & `chart_promo_uplift.png` — Python script (`pandas`, `matplotlib`) used to generate the dataset and verify KPIs.
